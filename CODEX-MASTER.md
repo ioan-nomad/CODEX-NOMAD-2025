@@ -1152,12 +1152,20 @@ def genereaza_saptamana_completa(inventar_ingrediente, preferinte, restrictii):
 CODEX-NOMAD-2025/
 ├── RETETE/
 │   ├── MASTER-INDEX.md ✅ (catalog central)
-│   ├── TEMPLATE-RETETA.md ✅ (șablon standard)
+│   ├── TEMPLATE-RETETA.md ✅ (șablon rețetă individuală)
+│   ├── TEMPLATE-SAPTAMANA-FLEXIBILA.md ✅ (șablon 7 zile)
 │   ├── 2025/
-│   │   └── IANUARIE/
-│   │       └── W1-Saptamana1/ ✅
-│   │           └── README.md ✅
-│   └── [rețete vor fi adăugate aici]
+│   │   └── [LUNA]/
+│   │       └── SAPTAMANA-[START]-[END]-[LUNA]/
+│   │           ├── [Date]-[Zi]-[Profil].md (7 rețete)
+│   │           ├── SHOPPING-LIST.md
+│   │           └── NUTRITIONAL-SUMMARY.md
+│   └── [rețete generate la cerere cu date reale]
+**Mod de utilizare:**
+1. Solicitare: "Generează 7 rețete începând de azi"
+2. Sistem generează cu date reale consecutive
+3. Salvare în folder datat pentru perioada respectivă
+4. Flexibilitate totală - generezi când ai timp
 ---
 
 ### 📊 STATUS DEZVOLTARE MODULE
