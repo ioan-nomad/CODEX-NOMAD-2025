@@ -9,7 +9,10 @@
 - **Metoda gătire:** Instant Pot - High Pressure (timp variabil) + Quick Release
 - **Diversitate botanică:** 30+ plante diferite/săptămână (microbiom optim)
 - **Planificare:** 7 zile integrate cu acoperire 100% nutrițională
-- **RESTRICȚII ABSOLUTE:** ❌ CIUPERCI (alergie Nico)
+- **RESTRICȚII ABSOLUTE:** 
+  - ❌ **CIUPERCI** - toate tipurile (alergie Nico)
+  - ❌ **CHILI** - înlocuit cu cayenne pepper
+  - ✅ **CAYENNE PEPPER** - preferat pentru beneficii metabolice
 ---
 
 ## 🔬 PROTOCOL VALIDARE ȘTIINȚIFICĂ - IMPERATIV
