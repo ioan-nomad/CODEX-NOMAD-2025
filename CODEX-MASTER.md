@@ -2,13 +2,14 @@
 
 ## 🎯 PARAMETRII ESENȚIALI
 
-- **Total calorii:** 2700 kcal (Ioan: 1500 + Nico: 1200)
+- **Total calorii:** 2500 kcal (Ioan: 1400 + Nico: 1100)
+- **Persoane:** Ioan (46 ani, 171cm, 76kg) + Nico (44 ani, 141cm, 54kg, mobilitate redusă)
 - **Ora consumului:** 06:00 dimineața
 - **Profil doshic:** Ambii Kapha-Pitta (dominanță Kapha)
 - **Metoda gătire:** Instant Pot - High Pressure (timp variabil) + Quick Release
-- **🆕 Diversitate botanică:** 30+ plante diferite/săptămână (microbiom optim)
-- **🆕 Planificare:** 7 zile integrate cu acoperire 100% nutrițională
-
+- **Diversitate botanică:** 30+ plante diferite/săptămână (microbiom optim)
+- **Planificare:** 7 zile integrate cu acoperire 100% nutrițională
+- **RESTRICȚII ABSOLUTE:** ❌ CIUPERCI (alergie Nico)
 ---
 
 ## 🔬 PROTOCOL VALIDARE ȘTIINȚIFICĂ - IMPERATIV
@@ -118,11 +119,15 @@ Rotația obligatorie a familiilor botanice pentru prevenirea acumulării de:
 *Sursa: IOM Dietary Reference Intakes 2005, EFSA 2017*
 
 **Factor Activitate Fizică (PAL):**
-- Sedentar = 1.4-1.6 (folosim 1.5)
-- REE Ioan (70kg, 35 ani) = ~1680 kcal
-- REE Nico (55kg, 35 ani) = ~1340 kcal
-- TDEE Ioan sedentar = 1680 × 1.5 = **1500 kcal** ✅
-- TDEE Nico sedentar = 1340 × 1.5 = **1200 kcal** ✅
+- Ioan sedentar = 1.4
+- Nico mobilitate redusă = 1.2
+- BMR Ioan (46 ani, 171cm, 76kg) = 1,645 kcal
+- BMR Nico (44 ani, 141cm, 54kg) = 1,195 kcal
+- TDEE Ioan = 1,645 × 1.4 = 2,303 kcal
+- TDEE Nico = 1,195 × 1.2 = 1,434 kcal
+- **Target N-OMAD Ioan:** 1,400 kcal (60% TDEE)
+- **Target N-OMAD Nico:** 1,100 kcal (76% TDEE)
+- **TOTAL ZILNIC:** 2,500 kcal
 
 ### AJUSTĂRI MACRO PENTRU SEDENTARI:
 | Macronutrient | Activ % | Sedentar % | g/zi Total | Ioan | Nico |
