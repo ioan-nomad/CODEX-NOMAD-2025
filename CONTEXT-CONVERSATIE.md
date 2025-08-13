@@ -70,6 +70,14 @@ Verifică CODEX-MASTER.md și ROADMAP-2025.md pentru detalii complete.
 - Target: mTOR suppression pentru longevitate
 
 ### LOKAȚIE & SEZON:
+### PREFERINȚE SPECIALE IDENTIFICATE:
+- Instant Pot exclusiv (nu alte metode)
+- O masă pe zi la 06:00 dimineața
+- Textură moale preferată pentru Nico
+- Anti-inflamator focus (turmeric, ghimbir zilnic)
+- Ingrediente accesibile local (nu exotic)
+- Batch cooking posibil pentru weekend
+- Cost consciousness (tracking prețuri RON)
 - Alba Iulia, România
 - Sezon curent: Vară (August)
 - Preferințe: produse locale de sezon
