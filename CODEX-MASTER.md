@@ -74,7 +74,101 @@ Toate datele nutriționale și recomandările din rețete TREBUIE să provină E
 **TOTAL MINIM: 30 specii/săptămână**
 
 ---
+## 🔄 PRINCIPIUL ROTAȚIEI ANTI-TOXINE - VALIDARE ȘTIINȚIFICĂ
 
+### FUNDAMENTAREA ACADEMICĂ:
+*Sursa primară: Environmental Research 2019, Food Chemistry 2020*
+
+**PRINCIPIUL FUNDAMENTAL:**
+Rotația obligatorie a familiilor botanice pentru prevenirea acumulării de:
+- **Metale grele** (arsenic, cadmiu, plumb, mercur)
+- **Alcaloizi** specifici familiei (solanine în solanacee)
+- **Oxalați** (spanac, sfeclă, migdale)
+- **Fitați** (cereale, leguminoase)
+- **Glucozinolați** (crucifere)
+
+### REGULI DE ROTAȚIE OBLIGATORII:
+
+#### **FAMILII BOTANICE - Maximum 2x/săptămână:**
+| Familie | Membri comuni | Toxină monitorizată | Zile minime pauză |
+|---------|---------------|---------------------|-------------------|
+| **Solanacee** | Roșii, ardei, vinete | Solanină, alcaloizi | 2 zile |
+| **Crucifere** | Broccoli, varză, conopidă | Glucozinolați, goitrogeni | 2 zile |
+| **Chenopodiaceae** | Spanac, sfeclă, quinoa | Oxalați, nitrați | 3 zile |
+| **Apiaceae** | Morcov, pătrunjel, țelină | Furanocumarine | 2 zile |
+| **Fabaceae** | Toate leguminoasele | Fitați, lectine | 1 zi |
+
+#### **INGREDIENTE CU MONITORING SPECIAL:**
+- **Orez** - arsenic anorganic → max 3x/săptămână, alternat cu quinoa/mei
+- **Spanac** - oxalați înalți → max 2x/săptămână, never consecutive
+- **Migdale** - oxalați + cianuri → max 30g/zi, 4x/săptămână
+- **Semințe in** - cadmiu → max 2 linguri/zi
+- **Alge marine** - iod excesiv → max 1x/săptămână
+
+### PROTOCOL DETOXIFIERE NATURALĂ:
+- **Cilantro** + **Chlorella** - zilele 1,4,7 (chelatori metale grele)
+- **Turmeric** + **Piper negru** - zilnic (antiinflamator, detox hepatic)
+- **Lămâie** în apă - dimineața (alcalinizare, vit C pentru chelație)
+
+---
+
+## ⚖️ CALIBRARE PENTRU SEDENTARISM - PARAMETRII AJUSTAȚI
+
+### RECALIBRARE ENERGETICĂ:
+*Sursa: IOM Dietary Reference Intakes 2005, EFSA 2017*
+
+**Factor Activitate Fizică (PAL):**
+- Sedentar = 1.4-1.6 (folosim 1.5)
+- REE Ioan (70kg, 35 ani) = ~1680 kcal
+- REE Nico (55kg, 35 ani) = ~1340 kcal
+- TDEE Ioan sedentar = 1680 × 1.5 = **1500 kcal** ✅
+- TDEE Nico sedentar = 1340 × 1.5 = **1200 kcal** ✅
+
+### AJUSTĂRI MACRO PENTRU SEDENTARI:
+| Macronutrient | Activ % | Sedentar % | g/zi Total | Ioan | Nico |
+|---------------|---------|------------|------------|------|------|
+| **Proteine** | 20-25% | **15-20%** | 100-135g | 56g | 44g |
+| **Carbohidrați** | 50-55% | **45-50%** | 300-340g | 170g | 130g |
+| **Grăsimi** | 25-30% | **30-35%** | 90-105g | 50g | 40g |
+
+**Fibră ajustată:** 25g/zi (nu 35g) pentru toleranță sedentari
+
+---
+
+## 🧬 AMINOACIZI & mTOR MANAGEMENT - LONGEVITATE
+
+### PRINCIPIUL RESTRICȚIEI INTELIGENTE:
+*Sursa: Cell Metabolism 2014, Nature Aging 2021*
+
+**AMINOACIZI CARE ACTIVEAZĂ mTOR (de limitat):**
+- **Leucină** - trigger principal mTOR
+- **Metionină** - aging accelerator
+- **Izoleucină** și **Valină** - BCAA co-activatori
+
+### STRATEGIA DE ECHILIBRARE:
+
+#### **DISTRIBUȚIE SĂPTĂMÂNALĂ PROTEINE:**
+| Zi | Profil proteic | Leucină | Metionină | Strategie |
+|----|---------------|---------|-----------|-----------|
+| **Luni** | LOW (leguminoase) | <2g | <0.5g | mTOR suppression |
+| **Marți** | MEDIUM (nuci/semințe) | 2-3g | 0.5-0.8g | Balanced |
+| **Miercuri** | LOW (cereale+legume) | <2g | <0.5g | mTOR suppression |
+| **Joi** | MEDIUM-HIGH (tahini, migdale) | 3-4g | 0.8-1g | Anabolic window |
+| **Vineri** | LOW (leguminoase) | <2g | <0.5g | mTOR suppression |
+| **Sâmbătă** | MEDIUM (mix) | 2-3g | 0.5-0.8g | Balanced |
+| **Duminică** | LOW-MEDIUM | 2-2.5g | 0.5-0.7g | Mild restriction |
+
+#### **SURSE PREFERATE (Low Methionine/Leucine ratio):**
+✅ **Leguminoase:** Linte > Năut > Fasole neagră  
+✅ **Cereale:** Orez > Quinoa > Ovăz  
+✅ **Nuci/Semințe:** Semințe in > Chia > Susan  
+⚠️ **Moderat:** Migdale, nuci, semințe floarea soarelui  
+❌ **Minimal:** Caju, fistic (highest leucine)
+
+### CYCLING PROTOCOL:
+- **5 zile/săptămână:** Restricție (sub 2g leucină/zi)
+- **2 zile/săptămână:** Reîncărcare moderată (3-4g leucină)
+- **Glycine supplementation:** 3g/zi (collagen synthesis, methionine buffer)
 ## 🗓️ ALGORITM PLANIFICARE 7 ZILE - ARQUITECTURĂ
 
 ### PRINCIPIUL FUNDAMENTAL:
@@ -357,7 +451,19 @@ Ingredientele se adaugă în etape pentru MAXIMIZAREA nutrienților biodisponibi
 | **B12** | [X] μg | [Y] μg | [Z]% |
 | **Calciu** | [X] mg | [Y] mg | [Z]% |
 | **Omega-3** | [X] mg | [Y] mg | [Z]% |
+### VALIDARE ANTI-ACUMULARE TOXINE
 
+| Ingredient | Familie botanică | Ultima folosire | Zile de pauză | Safe? |
+|------------|------------------|-----------------|---------------|-------|
+| [ingredient] | [familie] | Ziua [X] | [Y] zile | ✅/⚠️ |
+
+### PROFIL AMINOACIZI CRITICI
+
+| Aminoacid | Total rețetă | % din target | Status mTOR |
+|-----------|--------------|--------------|-------------|
+| **Leucină** | [X]g | [Y]% | Low/Medium/High |
+| **Metionină** | [X]g | [Y]% | Low/Medium/High |
+| **Glicină** | [X]g | [Y]% | Ratio Met:Gly = [X:Y] |
 ---
 
 ## 🔬 MACRONUTRIENȚI DETALIAT - SURSE VALIDATE
@@ -779,7 +885,10 @@ def genereaza_saptamana_completa(inventar_ingrediente, preferinte, restrictii):
 - [ ] **Plant count nou** minimum 3 specii/zi
 - [ ] **Plant count total** progress către 30+
 - [ ] **Aromatic rotation** respect for assigned day profile
-
+- [ ] **Rotație familii botanice** - nicio familie >2x consecutiv
+- [ ] **Leucină <2g** în zilele Low (L, Mi, V)
+- [ ] **Metionină <0.5g** în zilele restricție
+- [ ] **Arsenic check** - orez max 3x/săptămână
 ### VALIDĂRI SĂPTĂMÂNALE:
 - [ ] **Total exact 18900 kcal (±1%)** - 7 zile cumulate  
 - [ ] **100% DZR toate vitaminele** - acoperire completă
