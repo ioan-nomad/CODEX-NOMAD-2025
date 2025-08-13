@@ -839,7 +839,196 @@ def genereaza_saptamana_completa(inventar_ingrediente, preferinte, restrictii):
 - **Sushruta Samhita:** Surgical & dietary wisdom  
 - **Ashtanga Hridayam:** Practical applications
 - **Modern translations:** Academic peer-reviewed only
+---
 
+## 🚀 MODULE ÎN DEZVOLTARE - ROADMAP 2025
+
+### 📦 MODUL 1: PRACTIC - "Real Life"
+*Status: În dezvoltare*
+
+#### **Shopping List Generator**
+- [ ] Lista automată din 7 rețete
+- [ ] Cantități calculate pentru 2 persoane
+- [ ] Grupare pe categorii (legume, condimente, etc.)
+- [ ] Export format printabil
+
+#### **Prep Schedule**
+- [ ] Calendar săptămânal de preparare
+- [ ] Timp optim de cumpărare pentru prospețime
+- [ ] Secvență eficientă de pregătire
+- [ ] Remindere pentru înmuiere/germinare
+
+#### **Batch Cooking**
+- [ ] Ce se poate pregăti în avans
+- [ ] Porționare corectă pentru 2
+- [ ] Metode de păstrare optimă
+- [ ] Timeline de valabilitate
+
+#### **Storage Guide**
+- [ ] Ghid păstrare pentru fiecare ingredient
+- [ ] Temperaturi optime
+- [ ] Containere recomandate
+- [ ] Indicatori de prospețime/alterare
+
+---
+
+### 🌿 MODUL 2: SEZONIER - "Alba Iulia"
+*Status: În dezvoltare*
+
+#### **Calendar Ingrediente Locale**
+- [ ] Lista lunară cu produse de sezon
+- [ ] Peak season pentru fiecare ingredient
+- [ ] Disponibilitate în piețe vs magazine
+- [ ] Prețuri medii sezoniere
+
+#### **Furnizori Locali**
+- [ ] Map furnizori bio/eco în Alba Iulia
+- [ ] Program piețe locale
+- [ ] Producători locali verificați
+- [ ] Servicii livrare la domiciliu
+
+#### **Adaptări Sezoniere**
+- [ ] Rețete de vară (răcoritoare)
+- [ ] Rețete de iarnă (încălzitoare)
+- [ ] Substituții sezoniere validate
+- [ ] Conservare pentru extra-sezon
+
+#### **Ghid Piața Locală**
+- [ ] Harta Pieței Centrale Alba Iulia
+- [ ] Comercianți recomandați
+- [ ] Ore optime pentru prospețime
+- [ ] Trucuri negociere prețuri
+
+---
+
+### 🏥 MODUL 3: MEDICAL - "Tracking & Health"
+*Status: În dezvoltare*
+
+#### **Jurnal Efecte**
+- [ ] Template tracking zilnic
+- [ ] Scală energie (1-10)
+- [ ] Calitate somn
+- [ ] Markeri digestivi
+- [ ] Dispoziție generală
+
+#### **Markeri Sănătate**
+- [ ] Analize recomandate (3, 6, 12 luni)
+- [ ] Valori țintă personalizate
+- [ ] Corelații dietă-markeri
+- [ ] Interpretare rezultate
+
+#### **Ajustări Terapeutice**
+- [ ] Protocol pentru diabet tip 2
+- [ ] Adaptări pentru hipertensiune
+- [ ] Modificări pentru GERD
+- [ ] Suport autoimun
+
+#### **Interacțiuni**
+- [ ] Cu medicație comună
+- [ ] Cu suplimente
+- [ ] Timing optimal administrare
+- [ ] Contraindicații absolute
+
+---
+
+### 💰 MODUL 4: ECONOMIC
+*Status: În dezvoltare*
+
+#### **Cost per Rețetă**
+- [ ] Calculator automat RON
+- [ ] Actualizare prețuri lunare
+- [ ] Cost per persoană
+- [ ] Cost per calorie/nutrient
+
+#### **Optimizare Buget**
+- [ ] Alternative pentru ingrediente scumpe
+- [ ] Rețete sub 30 RON/zi
+- [ ] Rețete sub 50 RON/zi
+- [ ] Balans cost-valoare nutrițională
+
+#### **Bulk Buying Guide**
+- [ ] Ce merită cumpărat en-gros
+- [ ] Calcule economii reale
+- [ ] Storage pentru bulk
+- [ ] Fornizori angro Alba Iulia
+
+#### **ROI Nutrițional**
+- [ ] Cost per gram proteină
+- [ ] Cost per 1000mg Omega-3
+- [ ] Comparații surse nutrienți
+- [ ] Best value ingredients
+
+---
+
+### 🆘 MODUL 5: EMERGENCY
+*Status: În dezvoltare*
+
+#### **Plan B**
+- [ ] Rețete cu 5 ingrediente
+- [ ] Rețete cu 10 ingrediente max
+- [ ] "Pantry meals" din conserve
+- [ ] One-pot super simple
+
+#### **Quick Swaps**
+- [ ] Tabel substituții validate
+- [ ] Raporturi de înlocuire
+- [ ] Impact nutrițional
+- [ ] Ajustări gust necesare
+
+#### **Travel Mode**
+- [ ] Rețete pentru hotel (fără bucătărie)
+- [ ] Airplane meal prep
+- [ ] Road trip options
+- [ ] Instant Pot portabil setup
+
+#### **Restaurant Guide**
+- [ ] Ce să întrebi chelnerul
+- [ ] Modificări safe de cerut
+- [ ] Restaurante Alba Iulia testate
+- [ ] Meniuri analizate nutrițional
+
+---
+
+### 📚 MODUL 6: LIBRĂRIE REȚETE TESTATE
+*Status: În dezvoltare*
+
+#### **Rețete Validate**
+- [ ] Template documentare completă
+- [ ] Fotografii pas cu pas
+- [ ] Video demonstrații
+- [ ] Note din experiență
+
+#### **Rating Sistem**
+- [ ] Scor gust (1-5 stele)
+- [ ] Scor energie post-masă (1-5)
+- [ ] Scor digestie (1-5)
+- [ ] Complexitate preparare (1-5)
+- [ ] Raport calitate/preț (1-5)
+
+#### **Favorite Meals**
+- [ ] Top 10 all-time
+- [ ] Top 5 mic dejun
+- [ ] Top 5 comfort food
+- [ ] Top 5 impresionează oaspeții
+
+#### **Failed Experiments**
+- [ ] Ce nu a funcționat
+- [ ] De ce a eșuat
+- [ ] Lecții învățate
+- [ ] Cum să nu repeți greșelile
+
+---
+
+### 📊 STATUS DEZVOLTARE MODULE
+
+| Modul | Prioritate | Status | Target Completare |
+|-------|------------|--------|-------------------|
+| **1. Practic** | URGENTĂ | 0% | Februarie 2025 |
+| **2. Sezonier** | ÎNALTĂ | 0% | Martie 2025 |
+| **3. Medical** | ÎNALTĂ | 0% | Aprilie 2025 |
+| **4. Economic** | MEDIE | 0% | Mai 2025 |
+| **5. Emergency** | MEDIE | 0% | Iunie 2025 |
+| **6. Librărie** | ONGOING | 0% | Continuu |
 ---
 
 *"Codex N-OMAD 2025 Extended - Unde știința nutrițională de ultimă generație întâlnește înțelepciunea ayurvedică milenară și artizanatul culinar Michelin. Fiecare rețetă este un mic ecosistem perfect balans între sănătate optimă, diversitate botanică și plăcere senzorială refined."*
