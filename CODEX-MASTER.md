@@ -213,7 +213,30 @@ OUTPUT ZILNIC
 **Fier:** Distribuție graduală cu absorption enhancers  
 **Calciu:** Combinații optimale (sesame + verdețuri)  
 **Omega-3:** ALA zilnic, EPA/DHA echivalent 2x/săptămână  
+### 🔄 MOD FLEXIBIL - GENERARE LA CERERE
 
+**Utilizare practică:**
+- User: "Generează 7 rețete începând de azi"
+- Sistem: Creează 7 rețete consecutive cu date reale
+- Output: Folder datat + 7 fișiere + shopping list
+- Flexibilitate: Poți genera oricând, pentru orice perioadă
+
+**Exemplu concret:**
+- Cerere pe 13 August 2025 (Marți)
+- Generare automată: 13-19 August (Ma-Lu)
+- Rotație: Începe cu profilul zilei curente → continuă ciclul
+
+**Structura de salvare:**
+RETETE/2025/AUGUST/SAPTAMANA-13-19-AUG/
+├── 13-Aug-Marti-Mediterranean.md
+├── 14-Aug-Miercuri-MiddleEastern.md
+├── 15-Aug-Joi-SoutheastAsian.md
+├── 16-Aug-Vineri-NorthAfrican.md
+├── 17-Aug-Sambata-Mexican.md
+├── 18-Aug-Duminica-Nordic.md
+├── 19-Aug-Luni-Indian.md
+├── SHOPPING-LIST.md
+└── NUTRITIONAL-SUMMARY.md
 ### ALGORITM ANTI-MONOTONIE:
 
 #### ROTAȚIA AROMELOR - Ciclu 7 zile:
