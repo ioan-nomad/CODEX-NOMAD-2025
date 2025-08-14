@@ -495,6 +495,32 @@ Ingredientele se adaugă în etape pentru MAXIMIZAREA nutrienților biodisponibi
 | **Leucină** | [X]g | [Y]% | Low/Medium/High |
 | **Metionină** | [X]g | [Y]% | Low/Medium/High |
 | **Glicină** | [X]g | [Y]% | Ratio Met:Gly = [X:Y] |
+## ⚠️ STANDARDE OBLIGATORII FORMATARE REȚETE
+
+### CONSISTENȚĂ OBLIGATORIE - TOATE REȚETELE:
+
+**FIECARE rețetă trebuie să conțină EXACT aceleași secțiuni, în ACEEAȘI ordine:**
+
+1. **HEADER** - Emoji + Data + Zi + Profil aromatic
+2. **METADATA** - Status, versiune, data generare, calorii
+3. **PARAMETRII VERIFICAȚI** - 5 checkboxuri obligatorii
+4. **INGREDIENTE** - TABEL format standard (nu listă!)
+5. **CONDIMENTE** - Listă sau tabel
+6. **INSTRUCȚIUNI IP** - Prep + Gătire + Finalizare
+7. **TRACKING FAMILII** - TABEL format standard
+8. **PROFIL AMINOACIZI** - TABEL format standard  
+9. **MACRONUTRIENȚI** - TABEL format standard
+10. **FEEDBACK** - Template cu steluțe goale
+11. **SHOPPING** - Ce ai / Ce lipsește
+12. **NOTE SPECIALE** - Dacă e cazul
+
+### FORMAT TABELE OBLIGATORIU:
+**NU sunt acceptate:**
+- Liste simple pentru date numerice
+- Formatări diferite între zile
+- Secțiuni lipsă "pentru spațiu"
+- Inconsistențe de prezentare
+
 ---
 
 ## 🔬 MACRONUTRIENȚI DETALIAT - SURSE VALIDATE
