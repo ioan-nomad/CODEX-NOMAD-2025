@@ -515,6 +515,13 @@ Ingredientele se adaugă în etape pentru MAXIMIZAREA nutrienților biodisponibi
 12. **NOTE SPECIALE** - Dacă e cazul
 
 ### FORMAT TABELE OBLIGATORIU:
+<pre>
+```
+| Coloană 1 | Coloană 2 | Coloană 3 |
+|-----------|-----------|-----------|
+| Date      | Date      | Date      |
+```
+</pre>
 **NU sunt acceptate:**
 - Liste simple pentru date numerice
 - Formatări diferite între zile
