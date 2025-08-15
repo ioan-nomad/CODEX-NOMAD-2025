@@ -27,6 +27,19 @@ Verifică CODEX-MASTER.md și ROADMAP-2025.md pentru detalii complete.
 - ✅ Adăugat ROADMAP și CONTEXT
 - ✅ Pregătit pentru generare rețete
 - Next: Generare 7 rețete săptămâna 19-25 Aug
+### 14 August 2025
+- ✅ Protocol curățare complet (50+ ingrediente)
+- ✅ Sistem Inventory - 3 template-uri create
+- ✅ 7 rețete TEST generate (19-25 August)
+- ✅ Sumar nutrițional calculat
+- ✅ Shopping list ~60 RON pregătit
+- ✅ Standarde formatare adăugate în CODEX
+- Next: Shopping + Test rețete + Feedback
+
+### 15 August 2025
+- 🔄 Continuare în conversație nouă
+- [ ] De făcut shopping pentru ingrediente lipsă
+- [ ] Pregătire pentru testare rețete
 
 ### [DATA VIITOARE]
 - [ ] Ce vom face
