@@ -1,105 +1,97 @@
 # 🔄 CONTEXT PENTRU CONVERSAȚIE NOUĂ
 
-## 🎯 COPY-PASTE PENTRU START CONVERSAȚIE NOUĂ:
-Continuăm dezvoltarea CODEX N-OMAD 2025.
+## 🎯 LINK PRINCIPAL
 GitHub: https://github.com/ioan-nomad/CODEX-NOMAD-2025
-STATUS ACTUAL:
 
-CODEX complet implementat cu toate modulele
-Parametrii: 2500 kcal (Ioan 1400 + Nico 1100)
-Restricții: NO ciuperci, NO chili (folosim cayenne)
-Ioan: 46 ani, 171cm, 76kg
-Nico: 44 ani, 141cm, 54kg, mobilitate redusă
+## 👥 PERSOANE
+- **Ioan:** 46 ani, 171cm, 76kg, sedentar, BMR 1645
+- **Nico:** 44 ani, 141cm, 54kg, mobilitate redusă, BMR 1195
 
-ULTIMUL PROGRES:
-- 13 Aug: Sistem complet implementat, gata pentru rețete
-- Next: Generare 7 rețete pentru 19-25 August 2025
-- Shopping list pentru săptămâna completă
-- Focus: Test prima săptămână completă
+## 🍽️ PARAMETRII N-OMAD
+- **Calorii:** 2500/zi (Ioan 1400 + Nico 1100)
+- **Timing:** O masă la 06:00 dimineața
+- **Metodă:** Instant Pot exclusiv (High Pressure + Quick Release)
+- **Restricții ABSOLUTE:** 
+  - ❌ CIUPERCI (alergie Nico)
+  - ❌ CHILI (înlocuit cu cayenne pepper)
+- **Target:** 30+ plante diferite/săptămână
+- **Locație:** Alba Iulia, România
 
-Verifică CODEX-MASTER.md și ROADMAP-2025.md pentru detalii complete.
-## 📊 PROGRES PÂNĂ ACUM
-## 📅 LOG ACTIVITATE
+## 📂 STRUCTURA REPOSITORY
 
-### 13 August 2025
-- ✅ Creat structură completă GitHub
-- ✅ Implementat CODEX v3 cu toate modulele
-- ✅ Adăugat ROADMAP și CONTEXT
-- ✅ Pregătit pentru generare rețete
-- Next: Generare 7 rețete săptămâna 19-25 Aug
-### 14 August 2025
-- ✅ Protocol curățare complet (50+ ingrediente)
-- ✅ Sistem Inventory - 3 template-uri create
-- ✅ 7 rețete TEST generate (19-25 August)
-- ✅ Sumar nutrițional calculat
-- ✅ Shopping list ~60 RON pregătit
-- ✅ Standarde formatare adăugate în CODEX
-- Next: Shopping + Test rețete + Feedback
+### DOCUMENTE PRINCIPALE:
+1. **CODEX-MASTER.md** - Toate regulile și principiile
+2. **CONTEXT-CONVERSATIE.md** - Acest document
+3. **ROADMAP-2025.md** - Planuri dezvoltare
+4. **STATUS-LIVE.md** - Status în timp real
 
-### 15 August 2025
-- 🔄 Continuare în conversație nouă
-- [ ] De făcut shopping pentru ingrediente lipsă
-- [ ] Pregătire pentru testare rețete
+### PROTOCOALE:
+- **CURATARE-INGREDIENTE.md** - 50+ ingrediente, timpi, metode
 
-### [DATA VIITOARE]
-- [ ] Ce vom face
-- [ ] Updates aici
+### INVENTORY:
+- **STOC-TEMPLATE.md** - Pentru tracking casă
+- **ISTORIC-PRETURI.md** - Prețuri Alba Iulia
+- **SHOPPING-TEMPLATE.md** - Liste cumpărături
 
-### ✅ COMPLETAT:
-1. CODEX principal cu toate principiile
-2. Sistem management rețete
-3. Templates și structură
-4. Parametrii personalizați
-5. Roadmap dezvoltare
+### REȚETE:
+- **RETETE-TEST/** - Rețete în testare
+- **RETETE/** - Rețete validate (gol încă)
+
+## 📊 STATUS CURRENT
+
+### ULTIMA ACTUALIZARE: 15 August 2025
+
+### ✅ CE AVEM COMPLET:
+- 7 rețete pentru 19-25 August în RETETE-TEST/AUGUST-2025/
+- Protocol curățare (50+ ingrediente)
+- Template-uri inventory (3 fișiere)
+- Sumar nutrițional calculat
+- Shopping list (~60 RON)
 
 ### 🔄 ÎN LUCRU:
-- Generare primele 7 rețete (19-25 August)
+- [ ] Shopping pentru ingrediente lipsă
+- [ ] Testare rețete începând 19 August
+- [ ] Feedback și ajustări după testare
 
-### 📝 NOTE IMPORTANTE:
-## 🔑 DETALII TEHNICE CRITICE
+### 📦 INGREDIENTE DISPONIBILE ACASĂ:
+Morcovi, țelină, dovlecei, roșii, varză, ardei roșu, cartofi albi, cartofi dulci, năut conservă, linte conservă, fasole conservă, mei, amarant, quinoa, hrișcă, paste integrale, ovăz, chia, semințe cânepă, semințe in, mazăre congelată, ulei măsline EV, oțet balsamic, sos soia, tahini, orez alb, ceapă, usturoi, lămâi, toate condimentele (turmeric, ghimbir pudră, cayenne, garam masala, sumac, etc.)
 
-### FORMULE CALCUL:
-- BMR Ioan: 1,645 kcal × 1.4 (sedentar) = 2,303 TDEE
-- BMR Nico: 1,195 kcal × 1.2 (mobilitate redusă) = 1,434 TDEE
-- Target N-OMAD: 2,500 kcal total (60-76% din TDEE)
+### 🛒 SHOPPING NECESAR IDENTIFICAT:
+- Spanac proaspăt (300g) - ~10 RON
+- Ghimbir proaspăt (50g) - ~5 RON
+- Migdale crude (50g) - ~8 RON
+- Porumb (300g conservă) - ~8 RON
+- Dovleac (300g) - ~5 RON
+- Avocado (1-2 buc) - ~8-16 RON
+- Ceapă verde (1 legătură) - ~3 RON
+- Foi dafin (1 plic) - ~5 RON
+**TOTAL: ~60 RON**
 
-### ROTAȚIE AROMATĂ 7 ZILE:
-1. Luni = Indian Classical
-2. Marți = Mediterranean 
-3. Miercuri = Middle Eastern
-4. Joi = Southeast Asian
-5. Vineri = North African
-6. Sâmbătă = Mexican (cu cayenne)
-7. Duminică = Nordic
+## 🚀 PENTRU CONVERSAȚIE NOUĂ
 
-### FAMILII BOTANICE - PAUZE OBLIGATORII:
-- Solanacee (roșii, ardei): max 2x/săpt, 2 zile pauză
-- Chenopodiaceae (spanac, sfeclă): max 2x/săpt, 3 zile pauză
-- Crucifere (varză, broccoli): max 2x/săpt, 2 zile pauză
+### COPY-PASTE MINIMAL:
+Continuăm CODEX N-OMAD.
+GitHub: https://github.com/ioan-nomad/CODEX-NOMAD-2025
+Status: [Vezi STATUS-LIVE.md]
+Vreau să: [specifică acțiunea]
+### CLAUDE VA:
+1. Accesa tot repository-ul GitHub
+2. Citi acest CONTEXT
+3. Verifica STATUS-LIVE.md
+4. Continua exact de unde am rămas
 
-### LEUCINĂ/METIONINĂ CYCLING:
-- 5 zile LOW (<2g leucină)
-- 2 zile MEDIUM (2-4g leucină)
-- Target: mTOR suppression pentru longevitate
+## 📝 NOTE IMPORTANTE
 
-### LOKAȚIE & SEZON:
-### PREFERINȚE SPECIALE IDENTIFICATE:
-- Instant Pot exclusiv (nu alte metode)
-- O masă pe zi la 06:00 dimineața
-- Textură moale preferată pentru Nico
-- Anti-inflamator focus (turmeric, ghimbir zilnic)
-- Ingrediente accesibile local (nu exotic)
-- Batch cooking posibil pentru weekend
-- Cost consciousness (tracking prețuri RON)
-- Alba Iulia, România
-- Sezon curent: Vară (August)
-- Preferințe: produse locale de sezon
-- Folosim Instant Pot exclusiv
-- Target 30+ plante/săptămână
-- Rotație familii botanice obligatorie
-- mTOR management (leucină/metionină)
-- Cayenne în loc de chili
+### LIMITĂRI TEHNICE:
+- Claude poate EDITA fișiere existente
+- Claude NU poate CREA fișiere noi
+- Sistem semi-automat funcțional
+
+### PREFERINȚE:
 - Anti-inflamator focus pentru Nico
+- Textură moale preferată
+- Batch cooking weekend posibil
+- Magazine: Kaufland, Lidl, Selgros, Carrefour, Piața Centrală
 
 ---
-*Actualizează această pagină după fiecare sesiune!*
+*Actualizat: 15 August 2025*
